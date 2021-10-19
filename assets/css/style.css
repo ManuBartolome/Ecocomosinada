@@ -1222,4 +1222,11 @@ section {
   #footer .footer-top .footer-info {
     margin: -20px 0 30px 0;
   }
+  .emailButton{
+    width: 90%;
+    margin-top: 5px;
+  }
+  .emailInput{
+    width: 90%;
+  }
 }
